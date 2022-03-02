@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 318.36 72.45">
+<defs>
+    <style>.cls-1,.cls-2{fill:#fff;}
+    .cls-2{
+        font-family:AquireBold,Aquire;
+        src: url('../fonts/AquireBold-8Ma60.otf') format("opentype");
+        font-size:63px;
+    }
+    .cls-3{letter-spacing:-0.01em;}
+    </style>
+</defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M52.77,0s14,6,16.78,15.43,1.5,15.21,1.5,15.21l4.5,2.79-3.64,3.86,4.5,2.14-5.14,5.14s3.64,1.93,5.14,1.07-2.57,4.07-3.86,4.72S50,56.51,39.12,71.78c-1.07,1.51-2.78,0-2.78,0s3-7.92-36.34-23.35V46.07l2.69-3.21L0,39.86l2.91-3.64L0,33.86l4.41-3.43S-.31,9.86,22.84,0c0,0-.86,15.64,1.28,16.5s29.15-.21,29.15-.21S55.05,3.21,52.77,0Z"/><text class="cls-2" transform="translate(92.36 58.13)">ETH<tspan class="cls-3" x="130.47" y="0">O</tspan><tspan x="177.6" y="0">S</tspan></text></g></g></svg>

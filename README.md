@@ -3,10 +3,10 @@
   
   <h2>Ethos — Web3 Ethereum Transactions DApp</h2>
   
-  <p>Send ETH, attach a message and keyword, and browse on-chain transactions with animated GIFs.</p>
+  <p>Send ETH, attach a message and gif, and browse on-chain transactions with animated GIFs.</p>
 
   <p>
-    <a href="#-demo">Live Demo</a> •
+    <a href="#-demo">Demo</a> •
     <a href="#-features">Features</a> •
     <a href="#-project-structure">Project Structure</a> •
     <a href="#-notes">Notes</a>
@@ -24,10 +24,7 @@
 
 ### 🎬 Demo
 
-- Live URL: <your-live-url-here>
-- Preview GIFs/Screens:
-  - `docs/demo.gif`
-  - Add a short screen recording (e.g., `demo.gif`) showing: connect wallet, send tx, and the transactions feed updating.
+![Ethos demo](docs/demo.gif)
 
 ---
 

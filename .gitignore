@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.local
+client/.env
+smart_contract/.env
+
+# Build outputs
+client/dist/
+.vite/
+
+# Hardhat artifacts
+smart_contract/artifacts/
+smart_contract/cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
